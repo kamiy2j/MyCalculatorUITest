@@ -108,5 +108,6 @@ class CalculatorOperationsE2ETest {
 
 ```
 UI test in action:
+
 ![ezgif-3-224ee40168](https://user-images.githubusercontent.com/22699271/219877800-e541f24e-5264-4db5-aef9-207e6bdb5c48.gif)
 
